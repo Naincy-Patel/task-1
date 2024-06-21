@@ -1,2 +1,2 @@
 # task-1
-Number Name
+Number Game
